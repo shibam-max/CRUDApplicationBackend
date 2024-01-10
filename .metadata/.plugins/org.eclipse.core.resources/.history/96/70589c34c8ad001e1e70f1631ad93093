@@ -1,0 +1,5 @@
+package com.shibam.fullstackbackend.exception;
+
+public class UserNotFoundException {
+
+}

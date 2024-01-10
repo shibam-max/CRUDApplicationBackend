@@ -1,0 +1,5 @@
+package com.shibam.fullstackbackend.model;
+
+public class User {
+
+}

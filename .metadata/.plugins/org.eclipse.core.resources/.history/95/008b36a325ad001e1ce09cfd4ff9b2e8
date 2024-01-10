@@ -1,0 +1,5 @@
+package com.shibam.fullstackbackend.repository;
+
+public class UserRepository {
+
+}
